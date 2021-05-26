@@ -2,7 +2,8 @@
 In this application, any image can be manipulated in terms of the Latin Extended-B symbols.  
 All of this is done through coding (python language).  
 The symbol size, the symbols and the colours can be selected by the user manually as well.  
-I made use of Pygame and Numpy in the code in order to accomplish this.   
+I made use of Pygame and Numpy in the code in order to accomplish this.  
+The manipulated image can be saved as well at a specified directory by simply holding the 'SPACE' button on the user's keyboard.
 
 # PREVIEW SCREENSHOTS  
 
