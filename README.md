@@ -1,5 +1,6 @@
 # Image Manipulation
-In this application, any image can be manipulated in terms of the Latin Extended-B symbols.   
+In this application, any image can be manipulated in terms of the Latin Extended-B symbols.  
+All of this is done through coding (python language).  
 The symbol size, the symbols and the colours can be selected by the user manually as well.  
 I made use of Pygame and Numpy in the code in order to accomplish this.   
 
